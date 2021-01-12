@@ -1,13 +1,2 @@
-### 🏃‍践行
-
-
-学、用、总结、分享
-
-学习的过程中，我们要不断的问自己。这个技术为什么出现？解决什么样的问题？为什么那个问题用这种方法？
-
-### 技术栈
-
-- Django
-- SpringBoot
-- Vue
-- Flutter
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoya7)
+![togettoyou's github stats](https://github-readme-stats.vercel.app/api?username=taoya7)
