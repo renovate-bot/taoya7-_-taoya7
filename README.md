@@ -1,2 +1,10 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoya7)
-![togettoyou's github stats](https://github-readme-stats.vercel.app/api?username=taoya7)
+
+📝 About Me
+
+🤦‍♂️ Flutter, Python, Django, Vue, PI
+🤔 Like Css, Design Code
+🐱 Use GSAP, SVG, Canvas, WebGL
+✍️ Learn... Three.js
+
+
+2021 Of www.taoya.art
