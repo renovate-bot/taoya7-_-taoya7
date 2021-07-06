@@ -1,9 +1,12 @@
 
-📝 About Me
+# 📝 About Me
 
 🤦‍♂️ Flutter, Python, Django, Vue, PI
+
 🤔 Like Css, Design Code
+
 🐱 Use GSAP, SVG, Canvas, WebGL
+
 ✍️ Learn... Three.js
 
 
