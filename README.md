@@ -1,15 +1,11 @@
 
 # 📝 About Me
 
-🤦‍♂️ Flutter Dev, Python, Django, Vue,  Javascript, UniApp
-
 🤔 Like Css, Design Code
-
-🐱 Use GSAP, SVG, Canvas, WebGL
 
 ⚙️ Play: Arduino, Raspberry Pi 
 
-✍️ Learning... Three.js
+![](https://skillicons.dev/icons?i=js,html,css,docker,vue,nodejs,git,dart,linux,py,ts,vscode)
 
 
-2021 Of www.taoya.art
+2022 Of www.taoya.art
